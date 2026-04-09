@@ -14,10 +14,10 @@ A beautiful, fully responsive booking website for **Mangalam Marriage Hall**, lo
 
 ## ✨ Features of the Website
 
-- 🏛️ Elegant hero section with Bengali & English branding
-- 📋 Online booking request form with validation
-- 🌟 Real guest reviews from Google
-- 🗺️ Embedded Google Maps with directions
-- 📱 Fully mobile responsive
-- 🎨 Traditional gold & deep brown aesthetic with mandala art
-- ⚡ No frameworks — pure HTML/CSS/JS, loads instantly
+- 🏛️ Elegant hero section with Bengali & English branding.
+- 📋 Online booking request form with validation.
+- 🌟 Real guest reviews from Google.
+- 🗺️ Embedded Google Maps with directions.
+- 📱 Fully mobile responsive.
+- 🎨 Traditional gold & deep brown aesthetic with mandala art.
+- ⚡ No frameworks — pure HTML/CSS/JS, loads instantly.
